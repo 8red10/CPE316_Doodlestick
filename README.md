@@ -12,7 +12,7 @@ December 15, 2023
 
 ## Video Demo
 A link to the video demo can be found 
-<a href="https://docs.python.org/3/library/gc.html" title="demo">here</a>.
+<a href="https://youtu.be/VO6-kmLE95Y" title="demo">here</a>.
 
 
 ## Description
