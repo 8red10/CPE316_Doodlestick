@@ -92,7 +92,7 @@ Pressing the **(9)** key activates the speed select mode. This allows the user t
 ### System Schematics
 <div align='center'>
 
-<img src='./docs/images/schematic.png' alt='system specifications' height='550'>
+<img src='./docs/images/schematic.png' alt='system specifications' height='750'>
 
 **Figure 5.** This is the schematic for the doodlestick system. The netport labels indicate where the pins are connected. For all the row and col pins of the keypad, standard GPIO input and output modes were used. For the joystick module, separate ADCs were configured on the X and Y coordinate data pins. To keep the voltages inputted to the ADCs within the proper range, the voltage source pin of the joystick was connected to the 3.3V pin. The joystick button was configured as a GPIO input pin with a pull up resistor. For the RGB module, the control pins were configured as standard GPIO outputs and connected as shown above. The power to this module came from a separate 5V 4A DC power source. 
 
